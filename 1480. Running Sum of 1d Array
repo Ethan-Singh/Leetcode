@@ -1,3 +1,4 @@
+# 1480. Running Sum of a 1d Array
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
