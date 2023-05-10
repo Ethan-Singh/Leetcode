@@ -1,2 +1,2 @@
 # Leetcode
-My Leetcode solutions
+A place to store my solutions for leetcodes I have completed
